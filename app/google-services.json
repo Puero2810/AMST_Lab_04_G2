@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "309859348681",
+    "project_id": "amst-grupo-2-lab-4",
+    "storage_bucket": "amst-grupo-2-lab-4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:309859348681:android:ec80961a0c527b5df85d18",
+        "android_client_info": {
+          "package_name": "com.example.amst_lab4_g2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "309859348681-v7nu3fci4mcpprcbe1sqnp2ooqinin84.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.amst_lab4_g2",
+            "certificate_hash": "25927c53073a6722df469be090bf195d66315dc9"
+          }
+        },
+        {
+          "client_id": "309859348681-fjbcop2bt8uujho3632sgtqgkhcjnupj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDluBvECWjAgKXzXQe2ZMaV8fGFI3jlsGI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "309859348681-fjbcop2bt8uujho3632sgtqgkhcjnupj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:309859348681:android:f6ed84baa57b45f2f85d18",
+        "android_client_info": {
+          "package_name": "com.example.grupo2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "309859348681-fjbcop2bt8uujho3632sgtqgkhcjnupj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDluBvECWjAgKXzXQe2ZMaV8fGFI3jlsGI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "309859348681-fjbcop2bt8uujho3632sgtqgkhcjnupj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
